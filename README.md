@@ -1,124 +1,114 @@
 
-<p align="center">
-  <img src="./assets/github-banner.png" alt="Abhishek CM - Full Stack Developer" width="100%">
-</p>
-
-<h1 align="center">Hi, I'm Abhishek CM 👋</h1>
+<h1 align="center">Hi 👋, I'm Abhishek CM</h1>
 
 <h3 align="center">Full Stack Developer | Software Engineer</h3>
 
 <p align="center">
-  BE Computer Science & Design Graduate
-  <br>
-  Atria Institute of Technology | Karnataka, India
+  BE Computer Science & Design Graduate | Karnataka, India
 </p>
 
 <p align="center">
-  <a href="mailto:abhishekcm8275@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-0A192F?style=for-the-badge&logo=gmail&logoColor=00D9FF">
-  </a>
-  <a href="https://github.com/Abhishek-cm10">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0A192F?style=for-the-badge&logo=github&logoColor=00D9FF">
-  </a>
+  <a href="mailto:abhishekcm8275@gmail.com">Email</a> •
+  <a href="https://github.com/Abhishek-cm10">GitHub</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 BE Graduate in Computer Science & Design.
-- 💻 Interested in building modern web applications.
-- 🚀 Worked with the MERN stack on a multi-vendor e-commerce application.
-- 🌱 Currently improving Java, problem-solving and full-stack development.
-- 🎯 Looking for entry-level software development opportunities.
-- 📍 Karnataka, India.
-
----
-
-## 🧰 Technical Skills
-
-### Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js&theme=dark">
-</p>
-
-### Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark">
-</p>
-
-### Backend & Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark">
-</p>
-
-### Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark">
-</p>
-
-### Core Skills
-
-- **Languages:** Java, Python, JavaScript, SQL
-- **Frontend:** HTML, CSS, React.js, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, GitHub, VS Code, Postman
+- 🎓 BE Graduate in Computer Science & Design
+- 💻 Interested in building modern web applications
+- 🌱 Currently strengthening Java, Python, React and backend development
+- 🛒 Developed a MERN-based multi-vendor e-commerce application
+- 🤖 Exploring Machine Learning and AI-based projects
+- 🎯 Looking for opportunities to grow as a Software Engineer
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-### 🛒 Fcart – Multi-Vendor E-commerce
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp" />
+</p>
 
-A Full Stack MERN-based e-commerce application with buyer, seller and admin functionalities.
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
+</p>
 
-**Technologies:** React.js, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, JWT.
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-**Key Features:**
-- User registration and authentication.
-- Product browsing and searching.
-- Shopping cart and wishlist.
-- Seller and admin dashboards.
-- Order management.
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-<!-- Add your actual Fcart repository URL here -->
+### 🔧 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 Fcart — Multi-Vendor E-Commerce
+A full-stack e-commerce application featuring buyer, seller, and admin functionality.
+
+- User authentication
+- Product browsing and shopping cart
+- Wishlist functionality
+- Seller dashboard
+- Admin management
+- Order management
+
+**Tech:** React, Node.js, Express, MongoDB
+
+---
 
 ### 🌿 Detection of Medicinal Plants
+A machine-learning-based application designed to identify medicinal plants from images.
 
-A project focused on medicinal plant detection.
+- Image-based plant identification
+- Machine learning classification
+- Dataset collection and processing
+- Prediction using Python
+- Accuracy visualization
 
-[View Repository](https://github.com/Abhishek-cm10/Detection-of-Medicinal-Plants)
+**Tech:** Python, TensorFlow/Keras, NumPy, OpenCV
 
-### 📊 Clustering of Patterns
+---
 
-A clustering project that groups similar data points based on their characteristics.
+### ❄️ SnowMan AndroMan OpenGL
+A 3D graphics project built using C++, OpenGL and GLUT.
 
-[View Repository](https://github.com/Abhishek-cm10/clustering-of-patterns)
+- 3D Snowman and Android models
+- Character movement
+- Rotation controls
+- Animation
+- Interactive environment
 
-### 🌐 Resume CV Website
-
-An HTML-based personal resume website.
-
-[View Repository](https://github.com/Abhishek-cm10/HTML-web-page-of-Resume-CV)
+**Tech:** C++, OpenGL, GLUT
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-cm10&show_icons=true&hide_border=true&bg_color=0A192F&title_color=00D9FF&icon_color=00D9FF&text_color=E6F1FF&rank_icon=github">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-cm10&layout=compact&hide_border=true&bg_color=0A192F&title_color=00D9FF&text_color=E6F1FF">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-cm10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-cm10&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-### 🔥 Contribution Streak
+---
+
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Abhishek-cm10&hide_border=true&background=0A192F&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E6F1FF&currStreakNum=E6F1FF&sideNums=E6F1FF&dates=9FB3C8">
+  <img src="https://streak-stats.demolab.com?user=Abhishek-cm10&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -127,21 +117,16 @@ An HTML-based personal resume website.
 
 <p align="center">
   <a href="mailto:abhishekcm8275@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
+    📧 Email
   </a>
+  &nbsp; • &nbsp;
   <a href="https://github.com/Abhishek-cm10">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white">
+    💻 GitHub
   </a>
 </p>
-
-<!-- Add your LinkedIn profile link when ready -->
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00D9FF&height=100&section=footer" width="100%">
+  <b>Build • Learn • Improve • Repeat 🚀</b>
 </p>
-
-<h3 align="center">
-  Build Consistently | Learn Continuously | Improve Every Day 🚀
-</h3>
