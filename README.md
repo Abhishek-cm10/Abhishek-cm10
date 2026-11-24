@@ -1,71 +1,128 @@
-# 👋 Hi, I'm Abhishek CM
+<!-- ===================================================== -->
+<!--                  ABHISHEK CM                         -->
+<!--              PREMIUM GITHUB PROFILE                  -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="assets/github-banner.png" width="100%" alt="Abhishek CM - Full Stack Developer" />
+  <img src="assets/github-banner.png" width="100%" alt="Abhishek CM | Full Stack Developer" />
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Computer+Science+%26+Design+Graduate;Building+Real-World+Applications;Exploring+Blockchain+%26+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Abhishek+CM+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Software+Engineer+%F0%9F%9A%80;Blockchain+%26+AI+Enthusiast+%E2%9C%A8;Building+Ideas+Into+Applications" alt="Typing introduction" />
 
-### `BUILD • LEARN • INNOVATE`
+<br/>
+
+### `BUILDING THE FUTURE, ONE PROJECT AT A TIME`
 
 <p>
-  <a href="mailto:abhishekcm8275@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-  <a href="https://github.com/Abhishek-cm10"><img src="https://img.shields.io/badge/GitHub-Follow_Me-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abhishek-cm-734bb52a8/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:abhishekcm8275@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://github.com/Abhishek-cm10">
+    <img src="https://img.shields.io/badge/GITHUB-Follow_Me-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-cm-734bb52a8/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Abhishek-cm10&style=flat-square&color=22D3EE&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">⚡ ABOUT ME</h2>
 
-I'm a Computer Science and Design graduate passionate about building practical software solutions and exploring emerging technologies.
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👨‍💻 Who I Am
+
+I'm a Computer Science and Design graduate passionate about software development, modern web technologies and emerging innovations.
 
 - 🎓 BE in Computer Science and Design
-- 💻 Interested in Full Stack Web Development
-- ⚙️ Building applications using React, Node.js and MongoDB
-- 🔗 Exploring Blockchain, Cryptography and Smart Contracts
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🌱 Continuously improving my programming and problem-solving skills
+- 💻 Aspiring Software Engineer
+- 🌐 Interested in Full Stack Development
+- 🔗 Exploring Blockchain and Cryptography
+- 🤖 Interested in AI and Machine Learning
+- 🌱 Continuously learning and improving
 
-**My goal:** To build useful, reliable and user-friendly applications while growing as a software developer.
+</td>
+<td width="45%" valign="top">
+
+### 🎯 Current Focus
+
+```javascript
+const abhishek = {
+  role: "Full Stack Developer",
+  interests: [
+    "Web Development",
+    "Blockchain",
+    "Artificial Intelligence"
+  ],
+  technologies: [
+    "React",
+    "Node.js",
+    "MongoDB",
+    "Java",
+    "Python",
+    "Solidity"
+  ],
+  mindset: "Learn. Build. Improve."
+};
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Skills
+<h2 align="center">🛠️ TECHNICAL ARSENAL</h2>
 
 <div align="center">
 
-**Programming Languages**
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css" />
 
-**Frontend Development**
+### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
 
-**Backend Development**
+### ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-**Databases**
+### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 
-**Blockchain Technologies**
+### ⛓️ Blockchain Technologies
 
 <img src="https://skillicons.dev/icons?i=solidity" />
 
-`Ethereum` · `Ethers.js` · `Hardhat` · `MetaMask` · `Smart Contracts`
+<p>
+  <img src="https://img.shields.io/badge/Ethereum-627EEA?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/MetaMask-E2761B?style=flat-square&logo=metamask&logoColor=white" />
+</p>
 
-**AI & Machine Learning**
+### 🤖 AI & Machine Learning
 
-`Python` · `TensorFlow` · `Keras` · `MobileNetV2` · `OpenCV`
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/MobileNetV2-22D3EE?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</p>
 
-**Development Tools**
+### 🔧 Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
@@ -73,81 +130,135 @@ I'm a Computer Science and Design graduate passionate about building practical s
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-### 1. 🛒 FCART — Multi-Vendor E-Commerce Platform
+<p align="center">
+  <i>Turning concepts into practical software solutions.</i>
+</p>
 
-<img src="https://img.shields.io/badge/PROJECT-COMPLETED-00C853?style=for-the-badge" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A full-stack multi-vendor e-commerce application developed to support buyers, sellers and administrators through separate role-based functionalities.
+<h3>🛒 FCART</h3>
+<h4>Multi-Vendor E-Commerce Platform</h4>
 
-**Technology Stack:** `MongoDB` `Express.js` `React.js` `Node.js`
+<p>
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-00C853?style=for-the-badge" />
+</p>
+
+A full-stack e-commerce platform designed to support buyers, sellers and administrators through dedicated role-based functionality.
+
+**Technology Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB`
 
 **Key Features**
-- 🔐 User registration and authentication
-- 🛍️ Product browsing, shopping cart and wishlist
-- 🏪 Multi-vendor seller functionality
+
+- 🔐 User authentication
+- 🛍️ Product browsing and shopping cart
+- ❤️ Wishlist functionality
+- 🏪 Multi-vendor seller management
 - 📦 Product and order management
-- 👤 Separate buyer, seller and admin dashboards
+- 👥 Buyer, seller and admin dashboards
 - 💳 Payment integration
 
----
+<p align="center">
+  <a href="https://github.com/Abhishek-cm10">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-22D3EE?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
 
-### 2. 🔗 DECRYPT 2.0 — Blockchain and Cryptography
+</td>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT-IN%20DEVELOPMENT-22D3EE?style=for-the-badge" />
+<h3>🔗 DECRYPT 2.0</h3>
+<h4>Blockchain & Cryptography Platform</h4>
 
-A decentralized finance platform developed as a Blockchain and Cryptography mini-project, combining a modern web interface with Ethereum smart contracts.
+<p>
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-00C853?style=for-the-badge" />
+</p>
 
-**Technology Stack:** `React` `Vite` `Solidity` `Hardhat` `Ethers.js`
+A decentralized finance application developed as a Blockchain and Cryptography mini-project, integrating Ethereum wallet connectivity, smart contracts and a modern financial dashboard.
+
+**Technology Stack**
+
+`React` `Vite` `Solidity` `Hardhat` `Ethers.js`
 
 **Key Features**
+
 - 🔐 MetaMask wallet integration
-- 💸 ETH and ERC20 token transfers
-- 🔄 Decentralized swap interface
+- 💸 ETH and ERC20 transfers
+- 🔄 Uniswap V2-compatible swap interface
 - 🏦 ETH and ERC20 vault smart contracts
 - 📊 Portfolio and market dashboard
-- 🌗 Dark and light themes
-- 🧪 Smart contract tests
+- 🌗 Premium dark and light themes
+- 🧪 Automated smart contract tests
 
-[![GitHub](https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/Abhishek-cm10/Blockchain-and-Cryptography)
+<p align="center">
+  <a href="https://github.com/Abhishek-cm10/Blockchain-and-Cryptography">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-22D3EE?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
 
----
+</td>
+</tr>
 
-### 3. 🌿 Medicinal Plant Detection
+<tr>
+<td width="50%" valign="top">
 
-A machine learning application designed to identify medicinal plants using image classification.
+<h3>🌿 MEDICINAL PLANT DETECTION</h3>
+<h4>AI & Machine Learning Application</h4>
 
-**Technology Stack:** `Python` `TensorFlow` `Keras` `MobileNetV2` `Flask`
+A machine learning-based application that identifies medicinal plants using image classification.
+
+**Technology Stack**
+
+`Python` `TensorFlow` `Keras` `MobileNetV2` `Flask` `SQLite`
 
 **Key Features**
-- 🌱 Image-based medicinal plant identification
-- 🤖 Deep learning image classification
-- 🖼️ Image dataset processing
+
+- 🌱 Image-based plant identification
+- 🤖 Deep learning classification
+- 🖼️ Dataset processing
 - 📊 Prediction results
 - 🗄️ SQLite database integration
 
-[![GitHub](https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/Abhishek-cm10/Detection-of-Medicinal-Plants)
+<p align="center">
+  <a href="https://github.com/Abhishek-cm10/Detection-of-Medicinal-Plants">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-22D3EE?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
 
----
+</td>
+<td width="50%" valign="top">
 
-### 4. 📊 Clustering of Patterns
+<h3>📊 CLUSTERING OF PATTERNS</h3>
+<h4>Data Analysis & Machine Learning</h4>
 
-A data analysis and machine learning project focused on discovering patterns and grouping similar data points.
+A data analysis project focused on discovering patterns and grouping similar data points using clustering concepts.
 
 **Focus Areas**
-- Data preprocessing and analysis
-- Clustering techniques
-- Pattern recognition
-- Data visualization
+
+- 📈 Data analysis
+- 🧹 Data preprocessing
+- 🧠 Clustering techniques
+- 🔍 Pattern recognition
+- 📊 Data visualization
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 My Portfolio
+<h2 align="center">🌐 MY PORTFOLIO</h2>
 
 <div align="center">
 
-Explore my projects, skills and development journey.
+A central place to explore my development journey, technical skills and projects.
+
+<br/>
 
 <a href="https://github.com/Abhishek-cm10/abhishek-portfolio">
   <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-22D3EE?style=for-the-badge&logo=github&logoColor=black" />
@@ -157,13 +268,13 @@ Explore my projects, skills and development journey.
 
 ---
 
-## 📈 GitHub Statistics
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishek-cm10&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-cm10&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-cm10&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-cm10&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" />
 
 <br/><br/>
 
@@ -173,38 +284,44 @@ Explore my projects, skills and development journey.
 
 ---
 
-## 🐍 Contribution Activity
+<h2 align="center">🐍 CONTRIBUTION JOURNEY</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abhishek-cm10/Abhishek-cm10/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Abhishek-cm10/Abhishek-cm10/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution animation" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+<h2 align="center">🤝 LET'S CONNECT</h2>
 
 <div align="center">
 
+<p>I'm always interested in connecting with developers, exploring opportunities and collaborating on meaningful projects.</p>
+
 <a href="mailto:abhishekcm8275@gmail.com">
-  <img src="https://img.shields.io/badge/Email-abhishekcm8275%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/Abhishek-cm10">
-  <img src="https://img.shields.io/badge/GitHub-Abhishek--cm10-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GITHUB-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/abhishek-cm-734bb52a8/">
-  <img src="https://img.shields.io/badge/LinkedIn-Abhishek_CM-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### 💡 Code. Create. Learn. Repeat.
+### 💡 CODE. CREATE. LEARN. REPEAT.
 
 *Building my future, one commit at a time.* 🚀
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22D3EE&section=footer" width="100%" />
 
 </div>
+
+<!-- END OF PROFILE README --> 
