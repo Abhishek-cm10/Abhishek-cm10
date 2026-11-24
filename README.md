@@ -1,10 +1,10 @@
-<p align="center">
+ <p align="center">
   <img src="assets/github-banner.png" width="100%" alt="Abhishek CM - Full Stack Developer">
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Abhishek+CM+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Software+Engineer+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Abhishek+CM+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Software+Engineer+%F0%9F%9A%80;Building+Web+%26+Blockchain+Projects+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -16,6 +16,9 @@
   </a>
   <a href="https://github.com/Abhishek-cm10">
     <img src="https://img.shields.io/badge/GITHUB-Explore-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-cm-734bb52a8/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 </p>
 
@@ -33,26 +36,26 @@
 
 ### 🎯 Who I Am
 
-🎓 Computer Science & Design Graduate
+🎓 BE Computer Science & Design Graduate
 
 💻 Aspiring Software Engineer
 
 🌱 Continuously learning and building
 
-🚀 Passionate about web technologies
+🚀 Interested in Full Stack Development
 
 </td>
 <td width="50%">
 
 ### 🔭 What I'm Doing
 
-⚙️ Building full-stack applications
+⚙️ Developing full-stack applications
 
-🧠 Exploring Machine Learning & AI
+🔗 Exploring Blockchain & Cryptography
 
-📚 Improving Java & problem-solving
+🧠 Learning Machine Learning & AI
 
-✨ Turning ideas into practical projects
+📚 Improving Java and problem-solving
 
 </td>
 </tr>
@@ -87,8 +90,20 @@
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 </p>
+
+### 🔗 Blockchain Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=solidity" />
+</p>
+
+`Ethereum` `Ethers.js` `Hardhat` `Smart Contracts` `MetaMask`
+
+### 🤖 AI & Machine Learning
+
+`Python` `TensorFlow` `Keras` `MobileNetV2` `OpenCV`
 
 ### 🔧 Tools & Platforms
 
@@ -106,9 +121,39 @@
 <tr>
 <td width="50%">
 
+<h3>🔗 BLOCKCHAIN AND CRYPTOGRAPHY — DECRYPT 2.0</h3>
+
+A premium decentralized finance platform developed as a Blockchain and Cryptography mini-project.
+
+**Tech Stack**
+
+`React` `Vite` `Solidity` `Hardhat` `Ethers.js`
+
+**Highlights**
+
+- 🔐 MetaMask wallet integration
+- 💸 ETH and ERC20 token transfers
+- 🔄 Decentralized swap interface
+- 🏦 ETH and token vault smart contract
+- 📊 Portfolio and market dashboard
+- 🌙 Premium dark and light themes
+- 🧪 Smart contract testing
+
+<a href="https://github.com/Abhishek-cm10/Blockchain-and-Cryptography">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00D4AA?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<p>
+<img src="https://img.shields.io/badge/BLOCKCHAIN-Development-22D3EE?style=flat-square" />
+<img src="https://img.shields.io/badge/SMART_CONTRACTS-Hardhat-blue?style=flat-square" />
+</p>
+
+</td>
+<td width="50%">
+
 <h3>🛒 FCART — MULTI-VENDOR E-COMMERCE</h3>
 
-A full-stack e-commerce platform designed with separate buyer, seller and administrator functionalities.
+A full-stack e-commerce platform with separate buyer, seller and administrator functionalities.
 
 **Tech Stack**
 
@@ -117,9 +162,9 @@ A full-stack e-commerce platform designed with separate buyer, seller and admini
 **Highlights**
 
 - 🔐 Authentication system
-- 🛍️ Shopping cart & wishlist
+- 🛍️ Shopping cart and wishlist
 - 🏪 Multi-vendor functionality
-- 📦 Product & order management
+- 📦 Product and order management
 - 💳 Payment integration development
 
 <p align="center">
@@ -127,7 +172,9 @@ A full-stack e-commerce platform designed with separate buyer, seller and admini
 </p>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%">
 
 <h3>🌿 MEDICINAL PLANT DETECTION</h3>
@@ -136,13 +183,13 @@ Machine learning-based application that identifies medicinal plants through imag
 
 **Tech Stack**
 
-`Python` `TensorFlow` `Keras` `OpenCV`
+`Python` `TensorFlow` `Keras` `MobileNetV2` `Flask`
 
 **Highlights**
 
 - 🌱 Image-based plant identification
 - 🤖 Machine learning classification
-- 📊 Accuracy visualization
+- 📊 Model prediction and visualization
 - 🖼️ Image dataset processing
 
 <a href="https://github.com/Abhishek-cm10/Detection-of-Medicinal-Plants">
@@ -150,14 +197,11 @@ Machine learning-based application that identifies medicinal plants through imag
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 <h3>📊 CLUSTERING OF PATTERNS</h3>
 
-A data analysis project designed to discover groups of similar data points through clustering techniques.
+A data analysis project focused on identifying groups of similar data points through clustering techniques.
 
 **Focus**
 
@@ -167,23 +211,22 @@ A data analysis project designed to discover groups of similar data points throu
 - Data visualization
 
 </td>
-
-<td width="50%">
-
-<h3>🌐 PERSONAL RESUME WEBSITE</h3>
-
-A personal website designed to showcase professional information, technical skills, projects and career details.
-
-**Focus**
-
-- Responsive design
-- HTML & CSS
-- Personal portfolio
-- Professional presentation
-
-</td>
 </tr>
 </table>
+
+---
+
+<h2 align="center">🌐 PORTFOLIO</h2>
+
+<div align="center">
+
+Explore my projects, technical skills and development journey.
+
+<a href="https://github.com/Abhishek-cm10/abhishek-portfolio">
+<img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-22D3EE?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+</div>
 
 ---
 
@@ -207,7 +250,7 @@ A personal website designed to showcase professional information, technical skil
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abhishek-cm10/Abhishek-cm10/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/Abhishek-cm10/Abhishek-cm10/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
@@ -223,6 +266,10 @@ A personal website designed to showcase professional information, technical skil
 
 <a href="https://github.com/Abhishek-cm10">
 <img src="https://img.shields.io/badge/GitHub-My_Repositories-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/abhishek-cm-734bb52a8/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <br/><br/>
